@@ -9,15 +9,11 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1. Importing necessary liberaries
-
 2. Data preprocessing
-
 3. Spliting data int training and testing data
-
 4. Performing SGD-Regressor
-
 5. Calculating error
-6. 
+
 ## Program:
 ```
 
